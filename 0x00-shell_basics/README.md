@@ -10,3 +10,4 @@ script to delete my first file
 script to delete my first deletion
 script to back
 script to list
+script to indicate i am a file
