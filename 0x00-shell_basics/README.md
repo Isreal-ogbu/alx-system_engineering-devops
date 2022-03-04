@@ -11,3 +11,4 @@ script to delete my first deletion
 script to back
 script to list
 script to indicate i am a file
+script to indicate symbolic link
