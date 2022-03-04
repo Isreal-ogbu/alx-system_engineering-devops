@@ -4,3 +4,4 @@ script to change directory
 script to list all file in long format
 script to list more files
 script to list files digit only
+script to create firstdirectory in /tmp/ file 
