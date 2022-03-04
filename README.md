@@ -1,1 +1,1 @@
-Script to school.mgc
+Script to school mgc
