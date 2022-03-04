@@ -18,3 +18,4 @@ script to clean emacs
 script to make tree
 script to list in particular other like comma
 script to school mgc
+script to show i am betty
