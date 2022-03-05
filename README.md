@@ -1,1 +1,1 @@
-Script to school mgc
+script to write betty
