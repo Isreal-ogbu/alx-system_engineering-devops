@@ -9,3 +9,4 @@ script for everbody
 script for permission
 script for john doe
 script to mirror permission
+script to directories permission
