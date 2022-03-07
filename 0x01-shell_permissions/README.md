@@ -12,3 +12,4 @@ script to mirror permission
 script to directories permission
 script to write more directories permission
 script to change group
+script to change owner and groups
