@@ -13,3 +13,4 @@ script to directories permission
 script to write more directories permission
 script to change group
 script to change owner and groups
+script to write if only
