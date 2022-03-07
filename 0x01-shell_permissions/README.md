@@ -7,3 +7,4 @@ script that add execute permission to to file owner hello
 script to allow multiple permission
 script for everbody
 script for permission
+script for john doe
