@@ -10,3 +10,4 @@ script for permission
 script for john doe
 script to mirror permission
 script to directories permission
+script to write more directories permission
