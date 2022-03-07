@@ -3,3 +3,4 @@ script to indicate who am i
 script to check groups
 script to check new owner
 script to create empty list
+script that add execute permission to to file owner hello
