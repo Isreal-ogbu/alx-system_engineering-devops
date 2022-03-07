@@ -5,3 +5,4 @@ script to check new owner
 script to create empty list
 script that add execute permission to to file owner hello
 script to allow multiple permission
+script for everbody
