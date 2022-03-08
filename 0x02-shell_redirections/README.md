@@ -4,3 +4,4 @@ script to create two files
 script for writing last ines
 script to write first lines
 script for newest file
+script for unique
