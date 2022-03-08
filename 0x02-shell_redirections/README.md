@@ -6,3 +6,4 @@ script for writing last ines
 script to write first lines
 creating third lines
 script for creating file
+script to write content
