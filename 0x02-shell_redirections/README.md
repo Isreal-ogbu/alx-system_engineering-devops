@@ -17,3 +17,4 @@ script to count word
 scripts to read what's next
 script to display file /etc/psswd that does not contain bin
 script to write letters only
+script to replace all character from A and c to Z and e
