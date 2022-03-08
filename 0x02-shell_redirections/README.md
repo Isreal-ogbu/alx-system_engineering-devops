@@ -8,3 +8,4 @@ creating third lines
 script for creating file
 script to write content
 script to duplicate the last line of my code
+script to clear all files ending with .js
