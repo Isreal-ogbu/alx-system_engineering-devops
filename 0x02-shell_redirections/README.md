@@ -3,5 +3,4 @@ script to write confused smiley
 script to create two files
 script for writing last ines
 script to write first lines
-script for newest file
-script for unique
+script for creating file
