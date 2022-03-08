@@ -14,3 +14,4 @@ script for  10 newest files
 script to print word that appear only ones after an input
 script to find the word
 script to count word
+scripts to read what's next
