@@ -24,3 +24,4 @@ scripts to display all users and home directories
 commands to find every empty directories and sub directories in a file
 scripts to read all the file with .gif in the directories and sub directories
 a code that decode acrostics using the first letter
+script for the biggest fan
