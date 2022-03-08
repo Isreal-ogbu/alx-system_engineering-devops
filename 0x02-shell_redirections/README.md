@@ -12,3 +12,4 @@ script to clear all files ending with .js
 script to count number of directories and sub-directories
 script for  10 newest files
 script to print word that appear only ones after an input
+script to find the word
