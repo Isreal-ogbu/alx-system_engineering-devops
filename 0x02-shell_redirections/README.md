@@ -21,3 +21,4 @@ script to replace all character from A and c to Z and e
 script to remove C and c
 script to reverse
 scripts to display all users and home directories
+commands to find every empty directories and sub directories in a file
