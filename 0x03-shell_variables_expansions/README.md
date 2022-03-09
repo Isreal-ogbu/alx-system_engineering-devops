@@ -5,3 +5,4 @@ script to show paths
 script to list global variables
 sript to create alias NAME
 script to list all local and environment variables and function
+script to create global variable
