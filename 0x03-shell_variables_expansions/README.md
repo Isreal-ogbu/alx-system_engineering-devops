@@ -3,4 +3,5 @@ script to display hello user
 script to export \action to path
 script to show paths
 script to list global variables
-script to create alias NAME
+sript to create alias NAME
+script to list all local and environment variables and function
