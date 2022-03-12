@@ -8,3 +8,4 @@ script to list all local and environment variables and function
 script to create global variable
 script to print 128 and knowlwdgw with a new line
 script to print the result of ower and divide
+script to print exponent of variable
