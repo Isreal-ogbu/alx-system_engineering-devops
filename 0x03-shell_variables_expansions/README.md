@@ -11,3 +11,4 @@ script to print the result of ower and divide
 script to print exponent of variable
 script to convert binary to decimal
 script to perform combination of value
+script that print a number to two decimal place and store in num
