@@ -15,3 +15,4 @@ script that print a number to two decimal place and store in num
 script to convert decimal to hexadecimal
 script to decode and encode text
 script that  prints every other line from the input, starting with the first line.
+script to add two number and store in water and stir and print the result
