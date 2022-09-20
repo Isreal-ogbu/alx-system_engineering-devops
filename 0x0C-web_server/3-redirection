@@ -2,6 +2,8 @@
 # Install nginx and start it
 apt-get -y install nginx
 
+service nginx start
+
 # Firewall setting: Allow Nginx to serve on HTTP
 ufw allow 'Nginx HTTP'
 
