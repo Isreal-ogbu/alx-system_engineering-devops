@@ -1,3 +1,2 @@
 #!/usr/bin/env bash
-sudo service apache2 start
-curl 0:8080
+sudo systemctl start apache2.service
